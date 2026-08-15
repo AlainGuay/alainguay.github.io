@@ -1,0 +1,25 @@
+---
+title: "Teaching"
+description-meta: "Graduate courses in econometrics and macroeconometrics at UQAM — Alain Guay."
+---
+
+## Université du Québec à Montréal
+
+### [ECO7036 — Économétrie I](https://etudier.uqam.ca/cours?sigle=ECO7036)
+
+Master's level. The general linear regression model; generalized least squares
+and maximum likelihood estimation; multicollinearity, specification error,
+autocorrelated residuals, stochastic regressors and measurement error;
+distributed lag and autoregressive models; systems of simultaneous equations.
+
+<!-- À COMPLÉTER : session la plus récente + [Plan de cours](files/eco7036-plan.pdf) une fois le PDF déposé dans files/ -->
+
+### [ECO9036 — Macroéconométrie](https://etudier.uqam.ca/cours?sigle=ECO9036)
+
+Doctoral level. Estimation and inference problems specific to macroeconometrics:
+specification tests, univariate and multivariate stationary time series,
+non-stationarity and cointegration, dynamic adjustment models, GMM and simulated
+method of moments, and numerical simulation methods. Applications are drawn from
+current debates in real, monetary and financial macroeconomics.
+
+<!-- À COMPLÉTER : session la plus récente + [Plan de cours](files/eco9036-plan.pdf) une fois le PDF déposé dans files/ -->

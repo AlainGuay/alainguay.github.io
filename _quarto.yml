@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+
+website:
+  title: "Alain Guay"
+  description: "Alain Guay — Professor of Economics, Université du Québec à Montréal. Macroeconomics, econometrics, structural VARs, business cycles."
+  site-url: "https://alainguay.github.io"
+  # Décommenter une fois files/favicon.png déposé (32×32 px)
+  # favicon: files/favicon.png
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications
+      - href: working-papers.qmd
+        text: Working papers
+      - href: data.qmd
+        text: Data
+      - href: teaching.qmd
+        text: Teaching
+    right:
+      - icon: envelope
+        href: "mailto:guay.alain@uqam.ca"
+        aria-label: Email
+      - icon: mortarboard-fill
+        href: "https://scholar.google.com/citations?user=Swf3sB4AAAAJ"
+        aria-label: Google Scholar
+  page-footer:
+    left: "Alain Guay — Université du Québec à Montréal"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: [cosmo, theme.scss]
+    toc: false
+    css: []
+    link-external-newwindow: true
+    grid:
+      body-width: 900px

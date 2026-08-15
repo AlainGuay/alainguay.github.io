@@ -1,0 +1,23 @@
+---
+title: "Working papers"
+description-meta: "Working papers and work in progress — Alain Guay, UQAM."
+---
+
+## Completed papers
+
+::: {.pub-list}
+- [A Spectral Framework for Non-Gaussian SVARs]{.pub-title} (with Dalibor Stevanović)
+  [CIRANO Working Paper 2026s-02 (2026)]{.pub-venue}
+  [[PDF](https://cirano.qc.ca/files/publications/2026s-02.pdf)]{.pub-links}
+
+- [Dynamic Identification in VARs]{.pub-title} (with Paul Beaudry, Fabrice Collard, Patrick Fève and Franck Portier)
+  [NBER Working Paper 32598 (2024)]{.pub-venue}
+  [[NBER page](https://www.nber.org/papers/w32598)[PDF](files/wp-dynamic-identification-vars.pdf)]{.pub-links}
+:::
+
+## Work in progress
+
+::: {.pub-list}
+- [Le Canada échappe-t-il vraiment à la malédiction des ressources? Une réponse en coupe provinciale]{.pub-title}
+  [À COMPLÉTER : co-auteurs, statut]{.pub-venue}
+:::

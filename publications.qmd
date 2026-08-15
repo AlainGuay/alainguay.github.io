@@ -1,0 +1,90 @@
+---
+title: "Publications"
+description-meta: "Refereed publications of Alain Guay, UQAM — econometrics and macroeconomics."
+---
+
+## Refereed publications
+
+::: {.pub-list}
+- [Structural VAR Models in the Frequency Domain]{.pub-title} (with Florian Pelgrin)
+  [*Journal of Econometrics*, 236 (2023), article 105466]{.pub-venue}
+  [[Published version](https://www.sciencedirect.com/science/article/pii/S0304407623001604)[Manuscript](files/svar-frequency-domain-ms.pdf)[Online appendix](files/svar-frequency-domain-appendix.pdf)[Working paper](files/svar-frequency-domain-wp.pdf)]{.pub-links}
+
+- [Identification of Structural Vector Autoregressions Through Higher Unconditional Moments]{.pub-title}
+  [*Journal of Econometrics*, 225 (2021), 27–46]{.pub-venue}
+  [[Manuscript](files/higher-moments-svar-ms.pdf)[Supplement](files/higher-moments-svar-supplement.pdf)]{.pub-links}
+
+- [When is Nonfundamentalness in SVARs a Real Problem?]{.pub-title} (with Paul Beaudry, Patrick Fève and Franck Portier)
+  [*Review of Economic Dynamics*, 30 (2019), 221–243]{.pub-venue}
+  [[Manuscript](files/nonfundamentalness-svar-ms.pdf)]{.pub-links}
+
+- [Sentiments in SVARs]{.pub-title} (with Patrick Fève)
+  [*The Economic Journal*, 129 (2019), 877–896]{.pub-venue}
+  [[Manuscript](files/sentiments-svar-ms.pdf)[Online appendix](files/sentiments-svar-appendix.pdf)]{.pub-links}
+
+- [Structural Change Tests for GEL Criteria]{.pub-title} (with Jean-François Lamarche)
+  [*Econometric Reviews*, 37 (2018), 1000–1032]{.pub-venue}
+  [[Manuscript](files/structural-change-gel-ms.pdf)[Supplement](files/structural-change-gel-supplement.pdf)]{.pub-links}
+
+- [Using Implied Probabilities to Improve Estimation with Unconditional Moment Restrictions for Weakly Dependent Data]{.pub-title} (with Florian Pelgrin)
+  [*Econometric Reviews*, 35 (2016), 344–372]{.pub-venue}
+  [[Published version](http://www.tandfonline.com/doi/full/10.1080/07474938.2014.966630)[Manuscript](files/implied-probabilities-ms.pdf)[Online appendix](files/implied-probabilities-appendix.pdf)]{.pub-links}
+
+- [Anticipations, bruits et sentiments]{.pub-title}
+  [*L'Actualité économique*, 92 (2016), 621–648]{.pub-venue}
+  [[Published version](http://expertise.hec.ca/actualiteeconomique/wp-content/uploads/2017/06/92_4_2016_Guay_621_648.pdf)]{.pub-links}
+
+- [Disaggregation Methods Based on MIDAS Regression]{.pub-title} (with Alain Maurin)
+  [*Economic Modelling*, 50 (2015), 123–172]{.pub-venue}
+  [[Published version](https://www.sciencedirect.com/science/article/pii/S0264999315001443)[Manuscript](files/midas-disaggregation-ms.pdf)]{.pub-links}
+
+- [Understanding the Effect of Technology Shocks in SVARs with Long-Run Restrictions]{.pub-title} (with Patrick Fève)
+  [*Journal of Economic Dynamics and Control*, 41 (2014), 154–172]{.pub-venue}
+  [[Published version](https://www.sciencedirect.com/science/article/pii/S0165188914000141)]{.pub-links}
+
+- [Robust Adaptive Rate-Optimal Testing for the White Noise Hypothesis]{.pub-title} (with Emmanuel Guerre and Stepana Lazarova)
+  [*Journal of Econometrics*, 176 (2013), 134–145]{.pub-venue}
+  [[Published version](https://www.sciencedirect.com/science/article/pii/S0304407613001152)]{.pub-links}
+
+- [Structural Change Tests Based on Implied Probabilities for GEL Criteria]{.pub-title} (with Jean-François Lamarche)
+  [*Econometric Theory*, 28 (2012), 1186–1228]{.pub-venue}
+  [[Published version](https://www.cambridge.org/core/journals/econometric-theory/article/structural-change-tests-based-on-implied-probabilities-for-gel-criteria/468CA65F1B34A5D6CF39F61235C50698)[Manuscript](files/structural-change-implied-prob-ms.pdf)]{.pub-links}
+
+- [Endogenous Business-Cycle Propagation and the Persistence Problem]{.pub-title} (with Steve Ambler and Louis Phaneuf)
+  [*Journal of Economic Dynamics and Control*, 36 (2012), 47–62]{.pub-venue}
+  [[Published version](https://www.sciencedirect.com/science/article/pii/S016518891100159X)[Manuscript](files/business-cycle-propagation-ms.pdf)]{.pub-links}
+
+- [Identification of Technology Shocks in Structural VARs]{.pub-title} (with Patrick Fève)
+  [*The Economic Journal*, 120 (2010), 1284–1318]{.pub-venue}
+  [[Published version](files/technology-shocks-svar-published.pdf)[Manuscript](files/technology-shocks-svar-ms.pdf)]{.pub-links}
+
+- [The Response of Hours to a Technology Shock]{.pub-title} (with Patrick Fève)
+  [*Journal of Money, Credit and Banking*, 41 (2009), 987–1013]{.pub-venue}
+  [[Published version](files/hours-technology-shock-published.pdf)[Manuscript](files/hours-technology-shock-ms.pdf)]{.pub-links}
+
+- [Adaptive Consistent Unit Root Tests Based on Autoregressive Threshold Model]{.pub-title} (with Frédérique Bec and Emmanuel Guerre)
+  [*Journal of Econometrics*, 142 (2008), 94–133]{.pub-venue}
+  [[Published version](files/unit-root-threshold-published.pdf)]{.pub-links}
+
+- [Indirect Inference and Calibration of Dynamic Stochastic General Equilibrium Models]{.pub-title} (with Ramdan Dridi and Eric Renault)
+  [*Journal of Econometrics*, 136 (2007), 397–430]{.pub-venue}
+  [[Published version](files/indirect-inference-dsge-published.pdf)]{.pub-links}
+
+- [A Data-Driven Nonparametric Specification Test for Dynamic Regression Models]{.pub-title} (with Emmanuel Guerre)
+  [*Econometric Theory*, 22 (2006), 543–586]{.pub-venue}
+
+- [Do Hodrick-Prescott and Baxter-King Filters Provide a Good Approximation of Business Cycles?]{.pub-title} (with Pierre St-Amant)
+  [*Annales d'Économie et de Statistique*, 77 (2005), 133–156]{.pub-venue}
+
+- [Testing for Structural Change in the Presence of Auxiliary Models]{.pub-title} (with Eric Ghysels)
+  [*Econometric Theory*, 20 (2004), 1168–1202]{.pub-venue}
+
+- [Optimal Predictive Tests]{.pub-title}
+  [*Econometric Reviews*, 22 (2003), 379–410]{.pub-venue}
+
+- [Structural Change Tests for Simulated Method of Moments]{.pub-title} (with Eric Ghysels)
+  [*Journal of Econometrics*, 115 (2003), 91–123]{.pub-venue}
+
+- [Indirect Inference, Nuisance Parameter and Threshold Moving Average Models]{.pub-title} (with Olivier Scaillet)
+  [*Journal of Business and Economic Statistics*, 21 (2003), 122–132]{.pub-venue}
+:::

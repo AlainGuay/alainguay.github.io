@@ -1,0 +1,30 @@
+---
+title: "Data and code"
+description-meta: "Replication data and code accompanying published papers — Alain Guay, UQAM."
+---
+
+Replication material for published and working papers.
+
+::: {.callout-note appearance="simple"}
+This page is being populated. Replication material is available on request in the
+meantime — [guay.alain@uqam.ca](mailto:guay.alain@uqam.ca).
+:::
+
+<!--
+Modèle d'entrée, à décommenter et compléter une fois le matériel déposé :
+
+::: {.pub-list}
+- [Identification of Structural Vector Autoregressions Through Higher Unconditional Moments]{.pub-title}
+  [*Journal of Econometrics*, 225 (2021)]{.pub-venue}
+  [[Code and data](files/joe-2021-replication.zip)]{.pub-links}
+:::
+
+Deux options pour héberger le matériel de réplication :
+
+1. Petits fichiers (< 50 Mo) : les déposer dans `files/` et pointer dessus.
+
+2. Gros fichiers ou code amené à évoluer : créer un dépôt GitHub par papier
+   et mettre un lien vers le dépôt. C'est ce qui est attendu par la plupart
+   des revues d'économétrie aujourd'hui, et ça donne un DOI si tu passes
+   par Zenodo.
+-->
