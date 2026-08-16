@@ -91,4 +91,17 @@ description-meta: "Refereed publications of Alain Guay, UQAM — econometrics an
 
 - [Indirect Inference, Nuisance Parameter and Threshold Moving Average Models]{.pub-title} (with Olivier Scaillet)
   [*Journal of Business and Economic Statistics*, 21 (2003), 122–132]{.pub-venue}
+
+- [The New Phillips Curve in Canada]{.pub-title} (with Richard Luger and Zhenhua Zhu)
+  [In *Price Adjustment and Monetary Policy*, proceedings of a conference held by the Bank of Canada (2002)]{.pub-venue}
+  [[Published version](https://www.bankofcanada.ca/wp-content/uploads/2010/08/Guay_Luger_Zhu-final.pdf)]{.pub-links}
+
+- [A Comparison of Alternative Methodologies for Estimating Potential Output and the Output Gap]{.pub-title} (with Chantal Dupasquier and Pierre St-Amant)
+  [*Journal of Macroeconomics*, 21 (1999), 577–595]{.pub-venue}
+
+- [Predictive Tests for Structural Change with Unknown Breakpoint]{.pub-title} (with Eric Ghysels and Alastair Hall)
+  [*Journal of Econometrics*, 82 (1998), 209–233]{.pub-venue}
+
+- [What Do Interest Rates Reveal about the Functioning of Real Business Cycle Models?]{.pub-title} (with Paul Beaudry)
+  [*Journal of Economic Dynamics and Control*, 20 (1996), 1661–1682]{.pub-venue}
 :::
