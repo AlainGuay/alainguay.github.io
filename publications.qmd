@@ -6,6 +6,10 @@ description-meta: "Refereed publications of Alain Guay, UQAM — econometrics an
 ## Refereed publications
 
 ::: {.pub-list}
+- [Power of Unit Root Tests Against Nonlinear and Noncausal Alternatives with an Application to the Brent Crude Oil Price]{.pub-title} (with Frédérique Bec, Heino Bohn Nielsen and Sarra Saïdi)
+  [*Studies in Nonlinear Dynamics & Econometrics*, 29 (2025), 1–18]{.pub-venue}
+  [[Published version](https://doi.org/10.1515/snde-2022-0084)]{.pub-links}
+
 - [Structural VAR Models in the Frequency Domain]{.pub-title} (with Florian Pelgrin)
   [*Journal of Econometrics*, 236 (2023), article 105466]{.pub-venue}
   [[Published version](https://www.sciencedirect.com/science/article/pii/S0304407623001604)[Manuscript](files/svar-frequency-domain-ms.pdf)[Online appendix](files/svar-frequency-domain-appendix.pdf)[Working paper](files/svar-frequency-domain-wp.pdf)]{.pub-links}
