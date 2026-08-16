@@ -42,7 +42,7 @@ description-meta: "Refereed publications of Alain Guay, UQAM — econometrics an
   [*Economic Modelling*, 50 (2015), 123–172]{.pub-venue}
   [[Published version](https://www.sciencedirect.com/science/article/pii/S0264999315001443)[Manuscript](files/midas-disaggregation-ms.pdf)]{.pub-links}
 
-- [Understanding the Effect of Technology Shocks in SVARs with Long-Run Restrictions]{.pub-title} (with Patrick Fève)
+- [Understanding the Effect of Technology Shocks in SVARs with Long-Run Restrictions]{.pub-title} (with Jérémy Chaudourne and Patrick Fève)
   [*Journal of Economic Dynamics and Control*, 41 (2014), 154–172]{.pub-venue}
   [[Published version](https://www.sciencedirect.com/science/article/pii/S0165188914000141)]{.pub-links}
 
