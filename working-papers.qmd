@@ -18,3 +18,9 @@ description-meta: "Working papers and work in progress — Alain Guay, UQAM."
   [Submitted — CIRANO Working Paper 2026s-02]{.pub-venue}
   [[PDF](https://cirano.qc.ca/files/publications/2026s-02.pdf)]{.pub-links}
 :::
+
+## Work in progress
+
+::: {.pub-list}
+- [Identifying Dynamic Factors in Multiway Data: An Orthogonal CP Decomposition]{.pub-title} (with Dalibor Stevanović)
+:::
