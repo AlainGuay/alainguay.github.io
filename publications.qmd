@@ -80,6 +80,10 @@ description-meta: "Refereed publications of Alain Guay, UQAM — econometrics an
 - [Do Hodrick-Prescott and Baxter-King Filters Provide a Good Approximation of Business Cycles?]{.pub-title} (with Pierre St-Amant)
   [*Annales d'Économie et de Statistique*, 77 (2005), 133–156]{.pub-venue}
 
+- [Les neuf vies de la courbe de Phillips américaine : réincarnations ou résilience?]{.pub-title} (with Yvon Fauvel and Alain Paquet)
+  [*L'Actualité économique*, 81 (2005), 665–691]{.pub-venue}
+  [[Published version](https://www.erudit.org/fr/revues/ae/2005-v81-n4-ae1614/014913ar/)]{.pub-links}
+
 - [Testing for Structural Change in the Presence of Auxiliary Models]{.pub-title} (with Eric Ghysels)
   [*Econometric Theory*, 20 (2004), 1168–1202]{.pub-venue}
 
