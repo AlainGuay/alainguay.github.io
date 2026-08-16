@@ -18,10 +18,3 @@ description-meta: "Working papers and work in progress — Alain Guay, UQAM."
   [Submitted — CIRANO Working Paper 2026s-02]{.pub-venue}
   [[PDF](https://cirano.qc.ca/files/publications/2026s-02.pdf)]{.pub-links}
 :::
-
-## Work in progress
-
-::: {.pub-list}
-- [Le Canada échappe-t-il vraiment à la malédiction des ressources? Une réponse en coupe provinciale]{.pub-title}
-  [À COMPLÉTER : co-auteurs, statut]{.pub-venue}
-:::
