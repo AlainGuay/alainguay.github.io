@@ -87,9 +87,6 @@ Un modèle d'entrée est en commentaire dans le fichier, prêt à décommenter.
 Le favicon est commenté. Dépose `files/favicon.png` (32×32 px) et décommente
 la ligne si tu en veux un.
 
-**Le CV français date de 2023** — bon moment pour le mettre à jour. Le fichier est
-`files/cv-fr.pdf`.
-
 ## 5. Corrections et compléments apportés
 
 Le contenu vient du site Weebly, avec ces corrections :
