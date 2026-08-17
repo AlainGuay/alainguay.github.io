@@ -20,7 +20,32 @@ l'installateur `.pkg` demande ton mot de passe administrateur. Si tu préfères
 cette version, lance la commande toi-même dans un terminal ; tu pourras ensuite
 supprimer `~/.local/opt/quarto` et la ligne ajoutée à `~/.zshrc`.
 
-## 2. Prévisualiser en local
+## 2. Structure bilingue (depuis août 2026)
+
+Le site existe en anglais (racine) et en français (`/fr/`), avec une bascule
+Français/English dans la barre de navigation.
+
+- **Pages anglaises** : `*.qmd` à la racine. **Pages françaises** : `fr/*.qmd`.
+- **Les listes de publications et de working papers sont partagées** entre les
+  deux langues : `_publications-list.qmd`, `_wp-review-list.qmd` et
+  `_wp-progress-list.qmd`. Pour ajouter un papier, modifie UN de ces fichiers —
+  les deux langues sont mises à jour au prochain rendu.
+- La navigation de chaque langue vit dans `_quarto-en.yml` et `_quarto-fr.yml`
+  (profils Quarto) ; `_quarto.yml` contient la config commune.
+
+Rendu complet en local :
+
+```bash
+quarto render && quarto render --profile fr && rm -rf _site/fr && cp -R _site-fr/fr _site/fr
+```
+
+(Le workflow GitHub fait exactement ça à chaque `git push` — en temps normal tu
+n'as pas besoin de rendre localement.)
+
+`quarto preview` ne montre que la version anglaise ; pour vérifier le français
+en local, utilise le rendu complet ci-dessus puis ouvre `_site/fr/index.html`.
+
+## 3. Prévisualiser en local
 
 Depuis le dossier du site :
 
@@ -40,7 +65,7 @@ quarto render
 
 Le HTML se retrouve dans `_site/` (dossier ignoré par Git, c'est normal).
 
-## 3. Publier sur GitHub Pages
+## 4. Publier sur GitHub Pages
 
 Créer un dépôt GitHub nommé `alainguay.github.io`, puis :
 
@@ -66,7 +91,7 @@ Ensuite, deux façons de publier, au choix :
 Commence par la méthode manuelle le temps de te familiariser ; le workflow
 automatique attendra.
 
-## 4. Ce qu'il reste à faire
+## 5. Ce qu'il reste à faire
 
 Chercher `À COMPLÉTER` dans les `.qmd` — il en reste trois.
 
@@ -87,7 +112,7 @@ Un modèle d'entrée est en commentaire dans le fichier, prêt à décommenter.
 Le favicon est commenté. Dépose `files/favicon.png` (32×32 px) et décommente
 la ligne si tu en veux un.
 
-## 5. Corrections et compléments apportés
+## 6. Corrections et compléments apportés
 
 Le contenu vient du site Weebly, avec ces corrections :
 
@@ -117,7 +142,7 @@ mieux qu'une déduction de la mienne.
 liens pointent maintenant sur des chemins relatifs. Les deux CV aussi. Le site est
 autonome : tu peux fermer le compte Weebly quand tu veux, plus rien n'en dépend.
 
-## 6. Pour aller plus loin, plus tard
+## 7. Pour aller plus loin, plus tard
 
 - **Bibliographie automatique** : Quarto peut générer la liste de publications
   depuis un `.bib` avec l'extension `quarto-ext/academicons` et un template de
