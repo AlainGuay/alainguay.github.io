@@ -1,0 +1,13 @@
+::: {.pub-list}
+- [Max Share Identification for Structural VARs in Levels: There Is No Free Lunch!]{.pub-title} (with Florian Pelgrin and Stéphane Surprenant)
+  [Revision requested, *Journal of Econometrics*]{.pub-venue}
+  [[PDF](/files/max-share-svars-levels.pdf)]{.pub-links}
+
+- [Exploiting Dynamic Identification in VARs]{.pub-title} (with Paul Beaudry, Fabrice Collard, Patrick Fève and Franck Portier)
+  [Revision requested, *Journal of Monetary Economics* — NBER Working Paper 32598]{.pub-venue}
+  [[NBER page](https://www.nber.org/papers/w32598)[PDF](/files/wp-dynamic-identification-vars.pdf)]{.pub-links}
+
+- [A Spectral Framework for Non-Gaussian SVARs]{.pub-title} (with Dalibor Stevanović)
+  [Submitted — CIRANO Working Paper 2026s-02]{.pub-venue}
+  [[PDF](https://cirano.qc.ca/files/publications/2026s-02.pdf)]{.pub-links}
+:::

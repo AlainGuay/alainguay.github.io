@@ -4,3 +4,4 @@
 *.log
 
 **/*.quarto_ipynb
+/_site-fr/

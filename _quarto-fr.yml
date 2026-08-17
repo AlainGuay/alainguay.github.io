@@ -1,0 +1,33 @@
+lang: fr
+
+project:
+  # Rendu dans un dossier séparé, copié ensuite dans _site/fr
+  # (le rendu du profil anglais nettoie _site et supprimerait fr/)
+  output-dir: _site-fr
+  render:
+    - "fr/*.qmd"
+
+website:
+  navbar:
+    left:
+      - href: fr/index.qmd
+        text: Accueil
+      - href: fr/publications.qmd
+        text: Publications
+      - href: fr/working-papers.qmd
+        text: Documents de travail
+      - href: fr/data.qmd
+        text: Données
+      - href: fr/teaching.qmd
+        text: Enseignement
+    right:
+      - href: /
+        text: English
+      - icon: envelope
+        href: "mailto:guay.alain@uqam.ca"
+        aria-label: Courriel
+      - icon: mortarboard-fill
+        href: "https://scholar.google.com/citations?user=Swf3sB4AAAAJ"
+        aria-label: Google Scholar
+  page-footer:
+    right: "Fait avec [Quarto](https://quarto.org)"

@@ -5,26 +5,8 @@ description-meta: "Working papers and work in progress — Alain Guay, UQAM."
 
 ## Papers under review
 
-::: {.pub-list}
-- [Max Share Identification for Structural VARs in Levels: There Is No Free Lunch!]{.pub-title} (with Florian Pelgrin and Stéphane Surprenant)
-  [Revision requested, *Journal of Econometrics*]{.pub-venue}
-  [[PDF](files/max-share-svars-levels.pdf)]{.pub-links}
-
-- [Exploiting Dynamic Identification in VARs]{.pub-title} (with Paul Beaudry, Fabrice Collard, Patrick Fève and Franck Portier)
-  [Revision requested, *Journal of Monetary Economics* — NBER Working Paper 32598]{.pub-venue}
-  [[NBER page](https://www.nber.org/papers/w32598)[PDF](files/wp-dynamic-identification-vars.pdf)]{.pub-links}
-
-- [A Spectral Framework for Non-Gaussian SVARs]{.pub-title} (with Dalibor Stevanović)
-  [Submitted — CIRANO Working Paper 2026s-02]{.pub-venue}
-  [[PDF](https://cirano.qc.ca/files/publications/2026s-02.pdf)]{.pub-links}
-:::
+{{< include _wp-review-list.qmd >}}
 
 ## Work in progress
 
-::: {.pub-list}
-- [Identifying Dynamic Factors in Multiway Data: An Orthogonal CP Decomposition]{.pub-title} (with Dalibor Stevanović)
-
-- [Rank Tests and Identification Strength for Moment Operators: A Spectral Perturbation Approach]{.pub-title}
-
-- [Non-Gaussian Factor Models via Spectral Decomposition]{.pub-title} (with Dalibor Stevanović)
-:::
+{{< include _wp-progress-list.qmd >}}

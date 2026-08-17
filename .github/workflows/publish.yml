@@ -18,9 +18,21 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Render and publish to gh-pages
+      - name: Render English site
+        run: quarto render
+
+      - name: Render French site
+        run: quarto render --profile fr
+
+      - name: Merge French pages into site
+        run: |
+          rm -rf _site/fr
+          cp -R _site-fr/fr _site/fr
+
+      - name: Publish to gh-pages
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
+          render: "false"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

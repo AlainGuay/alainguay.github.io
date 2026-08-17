@@ -1,0 +1,12 @@
+---
+title: "Documents de travail"
+description-meta: "Documents de travail et travaux en cours — Alain Guay, UQAM."
+---
+
+## Articles soumis ou en révision
+
+{{< include ../_wp-review-list.qmd >}}
+
+## Travaux en cours
+
+{{< include ../_wp-progress-list.qmd >}}

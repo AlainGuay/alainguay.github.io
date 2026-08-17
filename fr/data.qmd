@@ -1,0 +1,11 @@
+---
+title: "Données et code"
+description-meta: "Données et code de réplication accompagnant les articles publiés — Alain Guay, UQAM."
+---
+
+Matériel de réplication pour les articles publiés et les documents de travail.
+
+::: {.callout-note appearance="simple"}
+Cette page est en construction. Le matériel de réplication est disponible sur
+demande — [guay.alain@uqam.ca](mailto:guay.alain@uqam.ca).
+:::

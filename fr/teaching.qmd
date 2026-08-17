@@ -1,0 +1,27 @@
+---
+title: "Enseignement"
+description-meta: "Cours d'économétrie et de macroéconométrie aux cycles supérieurs à l'UQAM — Alain Guay."
+---
+
+## Université du Québec à Montréal
+
+### [ECO7036 — Économétrie I](https://etudier.uqam.ca/cours?sigle=ECO7036)
+
+Deuxième cycle. Le modèle de régression linéaire général ; moindres carrés
+généralisés et maximum de vraisemblance ; multicolinéarité, erreurs de
+spécification, autocorrélation des résidus, régresseurs stochastiques et erreurs
+de mesure ; modèles à retards échelonnés et modèles autorégressifs ; systèmes
+d'équations simultanées.
+
+<!-- À COMPLÉTER : session la plus récente + [Plan de cours](/files/eco7036-plan.pdf) une fois le PDF déposé dans files/ -->
+
+### [ECO9036 — Macroéconométrie](https://etudier.uqam.ca/cours?sigle=ECO9036)
+
+Troisième cycle. Problèmes d'estimation et d'inférence propres à la
+macroéconométrie : tests de spécification, séries chronologiques stationnaires
+univariées et multivariées, non-stationnarité et cointégration, modèles
+d'ajustement dynamique, méthode des moments généralisés et des moments simulés,
+méthodes de simulation numérique. Les applications sont tirées des débats actuels
+en macroéconomie réelle, monétaire et financière.
+
+<!-- À COMPLÉTER : session la plus récente + [Plan de cours](/files/eco9036-plan.pdf) une fois le PDF déposé dans files/ -->

@@ -1,0 +1,8 @@
+---
+title: "Publications"
+description-meta: "Publications arbitrées d'Alain Guay, UQAM — économétrie et macroéconomie."
+---
+
+## Publications avec comité de lecture
+
+{{< include ../_publications-list.qmd >}}

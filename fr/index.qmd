@@ -1,0 +1,25 @@
+---
+title: "Alain Guay"
+description-meta: "Alain Guay — professeur au Département des sciences économiques de l'UQAM. Macroéconomie, économétrie, VAR structurels."
+---
+
+Je suis professeur au [Département des sciences économiques](https://economie.esg.uqam.ca/) de
+l'Université du Québec à Montréal. Mes recherches portent sur la macroéconomie et
+l'économétrie, en particulier sur l'identification des VAR structurels et sur
+l'analyse des fluctuations cycliques.
+
+Mes travaux récents portent sur l'identification par les moments d'ordre supérieur
+et sur les méthodes spectrales pour les VAR structurels non gaussiens. Les projets
+en cours se trouvent sur la page [documents de travail](working-papers.qmd).
+
+[Curriculum vitae (français)](/files/cv-fr.pdf) · [Curriculum vitae (English)](/files/cv-en.pdf)
+
+::: {.contact-block}
+| **Département des sciences économiques**
+| Université du Québec à Montréal
+| C.P. 8888, succursale Centre-ville
+| Montréal (Québec)  H3C 3P8, Canada
+
+| Courriel : [guay.alain@uqam.ca](mailto:guay.alain@uqam.ca)
+| Téléphone : (514) 987-3000, poste 8377
+:::
