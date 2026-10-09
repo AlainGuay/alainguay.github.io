@@ -23,6 +23,8 @@ website:
 
 format:
   html:
+    # Balise de vérification Google Search Console, sur toutes les pages
+    include-in-header: _google-verification.html
     theme: [cosmo, theme.scss]
     toc: false
     css: []
