@@ -4,9 +4,10 @@ description-meta: "Alain Guay — professeur au Département des sciences écono
 ---
 
 Je suis professeur au [Département des sciences économiques](https://economie.esg.uqam.ca/) de
-l'Université du Québec à Montréal. Mes recherches portent sur la macroéconomie et
-l'économétrie, en particulier sur l'identification des VAR structurels et sur
-l'analyse des fluctuations cycliques.
+l'Université du Québec à Montréal et cotitulaire de la
+[Chaire en macroéconomie et prévisions](https://chairemacro.esg.uqam.ca/) de l'ESG UQAM.
+Mes recherches portent sur la macroéconomie et l'économétrie, en particulier sur
+l'identification des VAR structurels et sur l'analyse des fluctuations cycliques.
 
 Mes travaux récents portent sur l'identification par les moments d'ordre supérieur
 et sur les méthodes spectrales pour les VAR structurels non gaussiens. Les projets

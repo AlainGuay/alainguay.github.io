@@ -3,7 +3,8 @@ title: "Alain Guay"
 description-meta: "Alain Guay — Professor of Economics, Université du Québec à Montréal. Macroeconomics, econometrics, structural VARs."
 ---
 
-I am a Professor of Economics at the [Université du Québec à Montréal](https://economie.esg.uqam.ca/?lang=en).
+I am a Professor of Economics at the [Université du Québec à Montréal](https://economie.esg.uqam.ca/?lang=en)
+and co-chair of the [Chaire en macroéconomie et prévisions](https://chairemacro.esg.uqam.ca/) (ESG UQAM).
 My research is in macroeconomics and econometrics, with a particular focus on the
 identification of structural VARs and on understanding cyclical fluctuations.
 
